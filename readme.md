@@ -13,7 +13,7 @@ Technologies Used
 -javascript 
 
 Getting Started
-web browser (e.g., Chrome, Firefox, Edge).
+with web browser (e.g., Chrome, Firefox, Edge).
 A code editor - for viewing or modifying the code.
 Basic knowledge of HTML, CSS, and JavaScript 
 
